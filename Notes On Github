@@ -4,3 +4,6 @@ To create a pull request, hit branch then create pull request
 To merge a branch, go to pull requests and look over the changes that are being made to the branch
 If you like the changes click, merge branches
 After making changes to a file, in order to commit them, you should provide a brief description of what you changed before commiting
+To create a new branch, hit branch, and type the name of the new branch in the text box.
+to merge branches, create a pull request(See line 3)
+To approve others' pull requests, go to pull requests and read over the changes before merging
