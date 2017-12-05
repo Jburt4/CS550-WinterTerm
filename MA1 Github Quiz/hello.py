@@ -1,2 +1,3 @@
-name = input('What is your name?')
-print('Hello, ' + name + '!')
+import sys
+
+print('Hello, ' + sys.argv[0] + '!')
